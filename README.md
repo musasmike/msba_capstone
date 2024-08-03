@@ -6,7 +6,7 @@ By **Mike Musas**    |    *August 10, 2024*
 
 ## **Project Dashboard**
 
-Link to project dashboard: [MSBA Capstone Project Dashboard](https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/)
+Link to project dashboard: [MSBA Capstone Project Dashboard](https://public.tableau.com/views/msba_project_dashboard/Demographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## **1. Introduction**
 

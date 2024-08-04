@@ -141,7 +141,7 @@ Drug impairment is a major contributor to road accidents, with certain substance
 
 Speeding is yet another leading cause of road fatalities, with 30.30% of fatal accidents involving speeding. High speeds reduce the driver's reaction time and increase the severity of crashes. Addressing this issue requires a multifaceted approach. Law enforcement can play a crucial role by strictly monitoring and penalizing speeding violations. Moreover, educating drivers about the dangers of speeding and encouraging safer driving habits through public service announcements and community programs can create a cultural shift towards safer driving behaviors. Advanced technologies, such as speed cameras and intelligent speed adaptation systems in vehicles, can also help in reducing speeding-related fatalities.
 
-<img src="Assets/Percentage of Fatalities by Speeding.png" alt="drawing" width="1000"/>
+<img src="Assets/Percentage of Accidents by Speeding.png" alt="drawing" width="1000"/>
 
 <p>.</p>
 
@@ -150,7 +150,7 @@ Speeding is yet another leading cause of road fatalities, with 30.30% of fatal a
 
 Impairment is another critical factor in road fatalities. The data shows that 38.18% of fatalities involved drivers with impairments, such as alcohol or drug influence. This statistic is alarming and underscores the need for stringent measures to combat impaired driving. Public awareness campaigns, stricter enforcement of DUI laws, and the implementation of sobriety checkpoints can significantly reduce the incidence of impaired driving. Additionally, promoting the use of alternative transportation options, like rideshares and public transport, can help keep impaired individuals off the roads.
 
-<img src="Assets/Percentage of Fatalities by Impairments.png" alt="drawing" width="1000"/>
+<img src="Assets/Percentage of Accidents by Impairments.png" alt="drawing" width="1000"/>
 
 <p>.</p>
 
